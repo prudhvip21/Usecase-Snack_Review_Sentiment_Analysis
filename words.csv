@@ -1,0 +1,201 @@
+unigram,uni_count,Brand,bigram,bi_count,neg_uni,neg_uni_count,neg_bi,neg_bi_count,neg_tri,neg_tri_count
+good,90,Cornitos,good taste,12,buy,9,dont buy,5,buy waste money,2
+taste,74,Cornitos,taste good,10,like,8,condition received,2,good condition received,2
+nachos,49,Cornitos,nachos crisps,9,bad,8,received product,2,condition received product,2
+like,41,Cornitos,good product,8,taste,8,product totally,2,received product totally,2
+chips,36,Cornitos,great taste,8,dont,6,totally crushed,2,product totally crushed,2
+product,35,Cornitos,cheese herbs,7,worst,6,crushed contents,2,totally crushed contents,2
+cornitos,33,Cornitos,sea salt,6,good,5,waste money,2,pack smelled like,1
+best,31,Cornitos,didnt like,6,product,5,buy waste,2,like nothing pile,1
+buy,27,Cornitos,like taste,6,broken,5,act ii,2,smelled like nothing,1
+nice,22,Cornitos,tortilla chips,6,time,4,good condition,2,fresh crunchy none,1
+tasty,21,Cornitos,dont like,6,chips,4,wan na,2,nothing pile poop,1
+one,20,Cornitos,tomato mexicana,5,nachos,4,quantity less,2,today opening pack,1
+cheese,20,Cornitos,tastes good,5,condition,3,chips broken,2,package today opening,1
+flavour,19,Cornitos,dont buy,5,waste,3,sea salt,2,recieved package today,1
+great,18,Cornitos,buy good,5,money,3,pack smelled,1,product recieved package,1
+crisps,17,Cornitos,cornitos nacho,5,salt,3,smelled like,1,damage product recieved,1
+flavor,17,Cornitos,available india,4,quantity,3,nothing pile,1,condition damage product,1
+amazon,16,Cornitos,de gallo,4,ever,3,pile poop,1,bad condition damage,1
+tastes,16,Cornitos,pico de,4,na,3,poop strong,1,opening pack smelled,1
+salsa,15,Cornitos,good good,4,nothing,3,opening pack,1,pile poop strong,1
+dont,14,Cornitos,best flavour,3,didnt,3,today opening,1,like soap bad,1
+delivery,14,Cornitos,amazon availability,3,one,3,package today,1,poop strong pungent,1
+time,14,Cornitos,taste right,3,tastes,3,recieved package,1,jalapenos like ordering,1
+jalapeno,13,Cornitos,excellent product,3,poor,3,like nothing,1,love jalapenos like,1
+better,13,Cornitos,one best,3,packaging,3,fresh crunchy,1,moment love jalapenos,1
+tomato,12,Cornitos,product nice,3,jalapenos,2,strong pungent,1,puke moment love,1
+available,12,Cornitos,good nachos,3,expected,2,makes wan,1,na puke moment,1
+get,12,Cornitos,sizzlin jalapeno,3,act,2,like ordering,1,wan na puke,1
+crispy,12,Cornitos,taste much,3,ii,2,jalapenos like,1,makes wan na,1
+excellent,11,Cornitos,tasted like,3,get,2,love jalapenos,1,taste makes wan,1
+try,11,Cornitos,overall taste,3,awful,2,moment love,1,awful taste makes,1
+doritos,11,Cornitos,flavor cheese,3,also,2,puke moment,1,nostrils awful taste,1
+nacho,11,Cornitos,helpful please,3,amazon,2,na puke,1,burnt nostrils awful,1
+didnt,11,Cornitos,people might,3,received,2,taste makes,1,almost burnt nostrils,1
+packet,11,Cornitos,nacho crisps,3,go,2,damage product,1,smell almost burnt,1
+bad,11,Cornitos,good packaging,3,thing,2,awful taste,1,pungent smell almost,1
+awesome,11,Cornitos,best nachos,3,cornitos,2,nostrils awful,1,strong pungent smell,1
+flavors,10,Cornitos,india good,3,fresh,2,burnt nostrils,1,soap bad condition,1
+flavours,10,Cornitos,jalapeno best,3,guess,2,almost burnt,1,producttasted like soap,1
+ok,10,Cornitos,cornitos original,2,less,2,smell almost,1,ordering pizza one,1
+go,10,Cornitos,brands learn,2,totally,2,pungent smell,1,waste money awefully,1
+tried,10,Cornitos,enough scratch,2,contents,2,product recieved,1,average dare buy,1
+packaging,10,Cornitos,scratch gums,2,never,2,soap bad,1,cornitos average dare,1
+broken,10,Cornitos,gums brands,2,crushed,2,condition damage,1,buy cornitos average,1
+much,9,Cornitos,best tried,2,well,2,nachos never,1,never buy cornitos,1
+india,9,Cornitos,amazoni almost,2,wan,2,money awefully,1,nachos never buy,1
+packing,9,Cornitos,discovered amazoni,2,disgusting,2,dare buy,1,ii nachos never,1
+also,9,Cornitos,flavors discovered,2,sea,2,average dare,1,act ii nachos,1
+herbs,8,Cornitos,new flavors,2,mouth,1,cornitos average,1,go act ii,1
+salt,8,Cornitos,two new,2,toppings,1,buy cornitos,1,like go act,1
+good,117,Lays,good product,14,chips,22,chips broken,4,bad packing chips,2
+chips,70,Lays,good good,14,crushed,11,small pieces,3,chips broken small,2
+taste,56,Lays,taste good,11,bad,11,chips crushed,3,broken small pieces,2
+product,51,Lays,good taste,9,broken,9,expiry date,2,unhealthy stuff nothing,2
+lays,43,Lays,cream onion,8,taste,7,expected expected,2,stuff nothing special,2
+nice,39,Lays,ok ok,8,product,7,broken small,2,packing chips crumpled,2
+best,31,Lays,awesome taste,7,air,7,pack chips,2,disappointed packet punctured,1
+tasty,31,Lays,value money,7,received,6,unhealthy stuff,2,really bad lays,1
+flavour,27,Lays,good quality,6,packing,5,stuff nothing,2,test crushed chips,1
+ok,26,Lays,nice product,5,packet,4,nothing special,2,bad test crushed,1
+love,22,Lays,quality chips,4,package,4,bad packing,2,lays bad test,1
+one,21,Lays,product good,4,tasty,4,packing chips,2,bad lays bad,1
+awesome,21,Lays,one best,4,lays,3,chips crumpled,2,reviewcoz time received,1
+air,21,Lays,good nice,4,quantity,3,crushed chips,2,received really bad,1
+packet,19,Lays,good tasty,4,small,3,fully crushed,2,time received really,1
+quality,19,Lays,ok good,4,damage,3,bad taste,2,chips ordered nos,1
+flavor,19,Lays,nice good,4,damaged,3,chips bad,2,change reviewcoz time,1
+great,18,Lays,chips broken,4,date,3,broken bad,2,needed change reviewcoz,1
+time,14,Lays,chips crushed,3,delivered,3,horrible everything,1,expected needed change,1
+like,14,Lays,one good,3,pieces,3,worst product,1,expected expected needed,1
+broken,13,Lays,magic masala,3,worst,3,crushed worst,1,crushed chips ordered,1
+delivery,13,Lays,broken good,3,expected,3,change reviewcoz,1,ordered nos received,1
+crushed,12,Lays,style cream,3,proper,2,reviewcoz time,1,crushed expected expected,1
+quantity,12,Lays,good one,3,stuff,2,time received,1,nos received single,1
+pack,12,Lays,great good,3,nothing,2,received really,1,never recommend worst,1
+favorite,11,Lays,nice taste,3,ye,2,really bad,1,product never recommend,1
+buy,11,Lays,chips good,3,almost,2,came crushed,1,worst product never,1
+bad,11,Lays,khaye lio,3,expiry,2,packet came,1,crushed worst product,1
+money,11,Lays,money nice,3,stale,2,crushed packet,1,came crushed worst,1
+received,11,Lays,lays good,3,flat,2,everything crushed,1,packet came crushed,1
+eat,10,Lays,time favorite,3,crumpled,2,taste packing,1,crushed packet came,1
+value,10,Lays,great product,3,less,2,lays bad,1,everything crushed packet,1
+cream,10,Lays,product tasty,3,full,2,bad test,1,horrible everything crushed,1
+amazon,9,Lays,quality product,3,ordered,2,test crushed,1,packing horrible everything,1
+super,9,Lays,tasty good,3,fully,2,chips ordered,1,taste packing horrible,1
+packing,9,Lays,lays chips,3,got,2,ordered nos,1,stale taste packing,1
+fresh,9,Lays,best lays,3,ke,2,nos received,1,quantity stale taste,1
+onion,9,Lays,potato chips,3,half,2,needed change,1,single quantity stale,1
+damaged,9,Lays,small pieces,3,single,2,received single,1,received single quantity,1
+date,9,Lays,good ok,3,special,2,single quantity,1,expected expected expected,1
+got,9,Lays,taste super,3,average,2,quantity stale,1,air almost chips,1
+packaging,8,Lays,lays best,3,unhealthy,2,stale taste,1,chips crushed expected,1
+package,8,Lays,smiling face,3,horrible,2,packing horrible,1,almost chips crushed,1
+delivered,8,Lays,awesome awesome,3,pack,2,bad lays,1,bad taste chips,1
+eating,7,Lays,flavor lays,3,worth,2,air almost,1,chips bad taste,1
+old,7,Lays,best flavour,3,replacement,1,expected needed,1,goodcrushed chips bad,1
+order,7,Lays,fully crushed,2,kha,1,broken less,1,wasnt goodcrushed chips,1
+excellent,7,Lays,great packaging,2,completely,1,bad product,1,order wasnt goodcrushed,1
+less,7,Lays,time pass,2,gaya,1,product getting,1,per order wasnt,1
+big,6,Lays,lio ye,2,pocket,1,getting smell,1,quantity per order,1
+taste,31,Too Yum,good taste,5,taste,10,yuuuuukkkkk class,2,yuuuuukkkkk class taste,2
+good,24,Too Yum,didnt like,5,really,5,one certify,2,wonder one certify,2
+like,14,Too Yum,little spicy,3,spicy,4,dont buy,2,class taste really,2
+nice,12,Too Yum,taste good,3,even,4,class taste,2,yumm tooooooo yuukkkk,2
+one,10,Too Yum,taste really,3,horrible,3,tooooooo yuukkkk,2,ever yumm tooooooo,2
+chips,9,Too Yum,good tasty,3,zero,3,yumm tooooooo,2,chips ever yumm,2
+tasty,8,Too Yum,like taste,3,rate,3,ever yumm,2,horrible chips ever,2
+really,7,Too Yum,face hearteyes,2,dont,3,chips ever,2,release market horrible,2
+flavor,7,Too Yum,go would,2,packet,2,horrible chips,2,taste release market,2
+flavour,7,Too Yum,zero really,2,face,2,release market,2,certify taste release,2
+much,6,Too Yum,even zero,2,certify,2,taste release,2,one certify taste,2
+spicy,6,Too Yum,would rate,2,chips,2,certify taste,2,market horrible chips,2
+product,5,Too Yum,want puke,2,yuukkkk,2,market horrible,2,really wonder one,2
+didnt,5,Too Yum,puke go,2,wonder,2,wonder one,2,even zero really,2
+tangy,5,Too Yum,wonder one,2,go,2,go would,2,rate even zero,2
+snack,5,Too Yum,really want,2,yuuuuukkkkk,2,taste really,2,would rate even,2
+yumm,5,Too Yum,class taste,2,want,2,really want,2,go would rate,2
+dont,5,Too Yum,really wonder,2,little,2,really wonder,2,puke go would,2
+even,5,Too Yum,certify taste,2,ever,2,want puke,2,want puke go,2
+would,4,Too Yum,one certify,2,yumm,2,puke go,2,really want puke,2
+say,4,Too Yum,dont buy,2,buy,2,little spicy,2,taste really want,2
+awesome,4,Too Yum,taste release,2,product,2,would rate,2,zero really wonder,2
+healthy,4,Too Yum,release market,2,one,2,rate even,2,completely deflated leak,1
+go,4,Too Yum,market horrible,2,bad,2,even zero,2,addicted little spicy,1
+face,4,Too Yum,horrible chips,2,tooooooo,2,zero really,2,little spicy packet,1
+try,3,Too Yum,chips ever,2,would,2,tastesmell fresh,1,spicy packet completely,1
+little,3,Too Yum,ever yumm,2,rating,2,dont get,1,packet completely deflated,1
+zero,3,Too Yum,yumm tooooooo,2,puke,2,leak present,1,tastesmell fresh might,1
+also,3,Too Yum,tooooooo yuukkkk,2,market,2,deflated leak,1,deflated leak present,1
+high,3,Too Yum,much good,2,class,2,completely deflated,1,leak present tastesmell,1
+love,3,Too Yum,tasty nice,2,release,2,packet completely,1,present tastesmell fresh,1
+rate,3,Too Yum,yuuuuukkkkk class,2,flavour,2,spicy packet,1,fresh might based,1
+great,3,Too Yum,rate even,2,present,1,addicted little,1,dont get addicted,1
+packet,3,Too Yum,tasty also,2,spice,1,get addicted,1,get addicted little,1
+baked,3,Too Yum,like flavour,2,sprinkled,1,present tastesmell,1,oily spice artificial,1
+eat,3,Too Yum,like chips,1,mi,1,really oily,1,spicy dont get,1
+others,3,Too Yum,flavor dont,1,completely,1,spicy dont,1,little spicy dont,1
+dahi,3,Too Yum,good flavor,1,try,1,good little,1,good little spicy,1
+oily,3,Too Yum,snack good,1,good,1,discount good,1,discount good little,1
+horrible,3,Too Yum,calorie snack,1,also,1,mean discount,1,mean discount good,1
+hearteyes,2,Too Yum,high calorie,1,telling,1,okkno mean,1,okkno mean discount,1
+actually,2,Too Yum,still high,1,tastesmell,1,impressed okkno,1,impressed okkno mean,1
+multigrain,2,Too Yum,roasted still,1,mean,1,artificial impressed,1,artificial impressed okkno,1
+spice,2,Too Yum,awesome roasted,1,addicted,1,spice artificial,1,spice artificial impressed,1
+air,2,Too Yum,chaat awesome,1,kids,1,oily spice,1,based condition packet,1
+best,2,Too Yum,dahi chaat,1,third,1,might based,1,really oily spice,1
+yuuuuukkkkk,2,Too Yum,real dahi,1,know,1,fresh might,1,might based condition,1
+certify,2,Too Yum,give try,1,took,1,waste horrible,1,ordinary waste horrible,1
+brand,2,Too Yum,better child,1,okkno,1,based condition,1,condition packet packed,1
+could,2,Too Yum,get real,1,condition,1,taste dont,1,packet packed handwash,1
+chips,87,Pringles,chips broken,20,chips,38,chips broken,12,friends liked product,2
+good,51,Pringles,potato chips,8,broken,33,chips crushed,5,pringles uk ordered,2
+broken,49,Pringles,cream onion,6,product,18,broken chips,5,box half empty,2
+taste,48,Pringles,broken chips,6,crushed,15,box half,4,chips broken inside,2
+product,33,Pringles,chips crushed,5,taste,11,broken small,3,chips crushed totally,2
+pringles,31,Pringles,good product,5,like,9,bad taste,3,india friends liked,2
+like,25,Pringles,good chips,5,half,9,broken inside,3,coming india friends,2
+crushed,17,Pringles,box half,4,box,9,half filled,3,flavors coming india,2
+box,15,Pringles,great taste,4,bad,8,waste money,3,ordered flavors coming,2
+flavour,15,Pringles,good taste,4,buy,8,tiny pieces,2,uk ordered flavors,2
+flavor,15,Pringles,pringles chips,4,pringles,8,chips came,2,chips broken small,2
+best,15,Pringles,opened chips,3,inside,7,half empty,2,addicted pringles uk,2
+buy,15,Pringles,product good,3,pieces,6,fake product,2,got addicted pringles,2
+pieces,14,Pringles,ok chips,3,delivered,5,bad product,2,broken inside father,1
+love,14,Pringles,sour cream,3,dont,4,product received,2,money chips broken,1
+quality,13,Pringles,like medicine,3,worth,4,liked product,2,waste money chips,1
+ok,13,Pringles,broken inside,3,quality,4,friends liked,2,totally waste money,1
+great,12,Pringles,peri peri,3,peri,4,small pieces,2,crushed totally waste,1
+delivered,11,Pringles,taste like,3,small,4,india friends,2,detergent product smelt,1
+one,11,Pringles,half filled,3,came,4,coming india,2,salty chips crushed,1
+inside,10,Pringles,good snack,3,worst,4,ordered flavors,2,likes salty chips,1
+potato,10,Pringles,product delivered,3,opened,3,uk ordered,2,father likes salty,1
+half,10,Pringles,bad taste,3,good,3,pringles uk,2,inside father likes,1
+got,10,Pringles,good good,3,ordered,3,addicted pringles,2,product smelt detergent,1
+bad,9,Pringles,broken small,3,got,3,got addicted,2,anymore chips broken,1
+price,9,Pringles,waste money,3,filled,3,product delivered,2,smelt detergent would,1
+get,9,Pringles,pieces broken,3,package,3,quality product,2,amazon anymore chips,1
+nice,8,Pringles,amazon pantry,3,waste,3,potato chips,2,eatables amazon anymore,1
+packing,8,Pringles,pringles best,2,tiny,3,broken broken,2,broken small fragments,1
+onion,8,Pringles,tastes good,2,never,3,flavors coming,2,detergent would never,1
+original,8,Pringles,love pringles,2,damaged,3,pringles box,2,would never buy,1
+eating,8,Pringles,bad product,2,money,3,taste like,2,never buy eatables,1
+tasty,8,Pringles,broken ok,2,eating,3,worst taste,2,buy eatables amazon,1
+amazon,7,Pringles,totally broken,2,totally,3,like medicine,2,compared variants one,1
+would,7,Pringles,small pieces,2,onion,3,peri peri,2,small fragments crisps,1
+dont,7,Pringles,best one,2,crumbs,2,crushed totally,2,broken cover detergent,1
+came,7,Pringles,inside smashed,2,detergent,2,cream onion,2,fragments crisps broken,1
+peri,7,Pringles,quality product,2,tasted,2,chips bad,2,price little worst,1
+better,7,Pringles,lesser priced,2,container,2,totally broken,2,drop price little,1
+also,7,Pringles,priced mrp,2,tin,2,came crushed,2,try drop price,1
+money,7,Pringles,broken great,2,empty,2,never buy,2,please try drop,1
+fresh,7,Pringles,chips box,2,liked,2,half eaten,2,quality please try,1
+cream,7,Pringles,came crushed,2,coming,2,bad half,1,poor quality please,1
+damaged,7,Pringles,value money,2,india,2,would never,1,broken poor quality,1
+time,7,Pringles,half eaten,2,great,2,detergent would,1,chips broken poor,1
+loved,6,Pringles,love flavor,2,salty,2,smelt detergent,1,eaten chips broken,1
+opened,6,Pringles,deal good,2,completely,2,product smelt,1,half eaten chips,1
+received,6,Pringles,available locally,2,ever,2,eatables amazon,1,smashed half eaten,1
+worth,6,Pringles,damaged product,2,would,2,detergent product,1,half smashed half,1
+even,6,Pringles,usa standards,2,chip,2,cover detergent,1,eaten half smashed,1
